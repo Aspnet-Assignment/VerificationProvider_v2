@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VerificationProvider_v2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7290",
+      "launchBrowser": false
+    }
+  }
+}
